@@ -14,18 +14,6 @@ h1 {
     margin-left: 30%;
 }
 
-/* Making the columns for the resumes to go in. */
-.row:after {
-display: table;
-clear: both;
-}
-
-.column {
-float: left;
-width: 45%;
-padding: 10px;
-}
-
 
 /* Formatting the resumes and div. */
 .resumePart {
