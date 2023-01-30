@@ -1,5 +1,5 @@
 /* setting up the background cover so it looks good */
-.bgImage {
+body {
     background-image: url(images/paper-backgound.jpg);
     height: 100%;
     width: 100%;
