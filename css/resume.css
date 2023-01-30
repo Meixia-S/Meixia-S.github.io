@@ -2,7 +2,7 @@
 body {
     background-image: url('images/paper-background.jpg');
     height: 100%;
-    width: 50%;
+    width: 100%;
     margin: 0;
     background-size: cover;
     background-position: center;
@@ -20,8 +20,15 @@ h1 {
     margin-bottom: 10%;
 }
 
-.resumeImages {
+.resumeImage1 {
     height: 500px;
     width: 350px;
+    margin-left: 10%;
 }
     
+.resumeImage2 {
+    height: 500px;
+    width: 350px;
+    margin-left: 10%;
+}
+   
