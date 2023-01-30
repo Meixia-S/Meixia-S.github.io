@@ -21,8 +21,10 @@ clear: both;
 }
 
 .column {
-display: table;
-clear: both;
+float: left;
+width: 45%;
+patting: 10px;
+height: 60%;
 }
 
 
