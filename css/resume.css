@@ -1,5 +1,5 @@
 /* setting up the background cover so it looks good */
-.background {
+body {
     background-image: url('images/paper-background.jpg');
     height: 100%;
     width: 100%;
@@ -9,8 +9,19 @@
     background-repeat: no-repeat;
 }
 
-.resumeImage {
+h1 { 
+    text-align: left;
+    margin: 20px;
+}
+
+.resumePart {
     height: 25%;
     margin-left: 10%;
     margin-bottom: 10%;
 }
+
+.resumeImages {
+    height: 500px;
+    width: 350px;
+}
+    
