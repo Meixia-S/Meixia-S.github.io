@@ -19,6 +19,19 @@ table {
 border-spacing: 30px;
 }
 
+th {
+font-size: 40px;
+}
+
+.header1 {
+    color: rgb(119, 167, 236);
+}
+
+.header2 {
+    color: rgb(50, 91, 146)
+}
+
+
 /* Formatting the resumes and div. */
 .resumePart {
     height: 25%;
@@ -26,15 +39,18 @@ border-spacing: 30px;
     margin-bottom: 10%;
 }
 
-.resumeImage1 {
+.resumeImage1,  {
     height: 500px;
     width: 350px;
     margin-left: 25%;
+    border: 10px solid rgb(119, 167, 236);
+    
 }
     
 .resumeImage2 {
     height: 500px;
     width: 350px;
     margin-left: 25%;
+    border: 10px solid rgb(50, 91, 146);
 }
    
