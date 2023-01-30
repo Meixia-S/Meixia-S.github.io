@@ -14,12 +14,12 @@
             <!-- adding the top bar with contact information and other options. -->
             <div class="topbar">
                 <a class="whenactive" href="#home">Home</a>
-                <a href="#resume" onclick="goToResumePage()">Resumes</a>
-                <a href="#references">References</a>
-                <a href="#"><i class="fa fa-instagram"></i></a>
-                <a href="#"><i class="fa fa-linkedin-square"></i></a>
-                <a href="#"><i class="fa fa-envelope"></i></a>
-                <a href="#"><i class="fa fa-phone"></i></a>
+                <a href="#resume" onclick="goToResumePage()" id="resume">Resumes</a>
+                <a href="#references" onclick="currentReferences()"id="references">References</a>
+                <a href="#" id="instagram"><i class="fa fa-instagram"></i></a>
+                <a href="#" id="linkedin"><i class="fa fa-linkedin-square"></i></a>
+                <a href="#" id="email"><i class="fa fa-envelope"></i></a>
+                <a href="#" id="number"><i class="fa fa-phone"></i></a>
             </div>  
         </div>
         <img src="images/White-Mt.jpg" alt="white snowy mt" />
@@ -97,6 +97,7 @@
 </p>
  
  <script> 
+  <!-- function that takes the user to the "Resume" page when toolbar resume option is clicked. -->
   let goToResumePage = function(event) {
    window.location.href = "resume.html";
   }
