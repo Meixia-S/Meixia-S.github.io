@@ -15,7 +15,7 @@ h1 {
 }
 
 /* Making the columns for the resumes to go in. */
-.row {
+.row:after {
 display: table;
 clear: both;
 }
@@ -23,8 +23,7 @@ clear: both;
 .column {
 float: left;
 width: 45%;
-patting: 10px;
-height: 60%;
+padding: 10px;
 }
 
 
