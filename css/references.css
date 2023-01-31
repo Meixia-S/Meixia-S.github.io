@@ -1,10 +1,11 @@
-/* Setting background color. */
+/* Setting background color.
 body {
   background: linear-gradient(black, white, black);
   background-color: white;
   height: 100%;
   width: 100%;
 }
+*/
 
 /* Setting the background of all the references I have.*/
 .secondReference {
