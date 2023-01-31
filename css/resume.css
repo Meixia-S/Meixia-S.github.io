@@ -14,6 +14,13 @@ h1 {
     margin-left: 20%;
 }
 
+p {
+    font-size: 15px;
+    font-style: italic;
+    left-margin: 10%;
+}
+
+
 /* Editing the table where the resumes are. */
 table {
 border-spacing: 20px;
@@ -38,7 +45,6 @@ font-size: 25px;
     width: 450px;
     margin-left: 25%;
     border: 8px solid rgb(119, 167, 236);
-    
 }
     
 .resumeImage2 {
