@@ -7,16 +7,25 @@ body {
 }
 */
 
-body{
-  font-color: black;
-}
-
-
 /* Setting the background of all the references I have.*/
 .secondReference {
   background-image: url(images/DuPageFoundation_Logo.png); 
   background-repeat: no-repeat;
   height: 100%;
+}
+
+.secondReference:hover {
+  &h4 {
+  font-size: 30px;
+}
+
+&p {
+  font-size: 20px;
+}
+
+&.contact {
+  font-size: 25px;
+}
 }
 
 .thirdReference {
@@ -34,14 +43,4 @@ body{
 }
 
 /* Adding the hover feature to the text. */
-h4:hover {
-  font-size: 26px;
-}
 
-p:hover {
-  font-size: 15px;
-}
-
-.contact:hover {
-  font-size: 20px;
-}
