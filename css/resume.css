@@ -16,11 +16,11 @@ h1 {
 
 /* Editing the table where the resumes are. */
 table {
-border-spacing: 15px;
+border-spacing: 30px;
 }
 
 th {
-font-size: 35px;
+font-size: 25px;
 }
 
 .header1 {
@@ -40,17 +40,17 @@ font-size: 35px;
 }
 
 .resumeImage1 {
-    height: 500px;
-    width: 350px;
+    height: 800px;
+    width: 650px;
     margin-left: 25%;
-    border: 10px solid rgb(119, 167, 236);
+    border: 8px solid rgb(119, 167, 236);
     
 }
     
 .resumeImage2 {
-    height: 500px;
-    width: 350px;
+    height: 800px;
+    width: 650px;
     margin-left: 25%;
-    border: 10px solid rgb(50, 91, 146);
+    border: 8px solid rgb(50, 91, 146);
 }
    
