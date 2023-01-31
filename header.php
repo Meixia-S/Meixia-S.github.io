@@ -1,4 +1,3 @@
-<!DOCTYPE html>   
 <html>
   <header>
     <title> Menu Bar Code </title>
