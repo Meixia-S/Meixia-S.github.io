@@ -34,10 +34,6 @@ td {
     padding-left: 20px;
 }
 
-td:hover {
-    margin: 10px;
-}
-
 th {
 font-size: 25px;
 }
