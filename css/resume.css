@@ -24,15 +24,15 @@ p {
 
 /* Editing the table where the resumes are. */
 table {
-border-spacing: 20px;
+    margin: 20px;
 }
 
 td {
-    padding-left: 30%;
+    margin: 30%;
 }
 
 td:hover {
-    border-spacing: 10px;
+    margin: 10px;
 }
 
 th {
