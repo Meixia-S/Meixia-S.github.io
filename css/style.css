@@ -85,6 +85,7 @@ p {
 .gradient1 {
     top: 75%;
     height: 400px;
+    margin-top: -10px;
     background-color: rgb(31, 38, 48);
     background-image: linear-gradient(rgb(69, 75, 89), white);
 }
