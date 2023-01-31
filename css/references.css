@@ -9,11 +9,13 @@ body {
 
 /* Setting the background of all the references I have.*/
 .secondReference {
-  background-image: url(images/DuPageFoundation_Logo.png);
+ /* background-image: url(images/DuPageFoundation_Logo.png); */
+  background-repeat: no-repeat;
   width: 50%;
 }
 
 .thirdReference {
   background-image: url(images/MAC-Building-Entrance.jpeg);
+  height: 100%;
   width: 100%;
 }
