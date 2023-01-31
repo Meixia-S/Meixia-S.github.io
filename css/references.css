@@ -11,11 +11,14 @@ body {
 .secondReference {
  /* background-image: url(images/DuPageFoundation_Logo.png); */
   background-repeat: no-repeat;
+  padding-left: 100px;
+  height: 100%;
   width: 50%;
 }
 
 .thirdReference {
   background-image: url(images/MAC-Building-Entrance.jpeg);
+  background-repeat: no-repeat;
   height: 100%;
-  width: 100%;
+  width: 50%;
 }
