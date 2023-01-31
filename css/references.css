@@ -12,21 +12,18 @@ body {
  /* background-image: url(images/DuPageFoundation_Logo.png); */
   background-repeat: no-repeat;
   height: 100%;
-  width: 100%;
 }
 
 .thirdReference {
   background-image: url(images/MAC-Building-Entrance.jpeg);
   background-repeat: no-repeat;
-  height: 100%;
   width: 100%;
   opacity: 0.6;
 }
 
 .fourthReference {
-  background-image: url(images/GelnbardWest.jpg);
+  background-image: url(images/GlenbardWest.jpg);
   background-repeat: no-repeat;
-  height: 100%;
   width: 100%;
   opacity: 0.6;
 }
