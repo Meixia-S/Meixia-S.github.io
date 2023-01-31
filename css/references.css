@@ -7,6 +7,11 @@ body {
 }
 */
 
+body{
+  font-color: black;
+}
+
+
 /* Setting the background of all the references I have.*/
 .secondReference {
   background-image: url(images/DuPageFoundation_Logo.png); 
