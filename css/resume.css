@@ -11,14 +11,14 @@ body {
 
 h1 { 
     text-align: left;
-    padding: 20px;
+    padding: 30%;
 }
 
 p {
     font-size: 20px;
     font-style: italic;
     text-align: left;
-    padding: 22px;
+    padding: 50px;
 }
 
 
@@ -29,7 +29,7 @@ border-spacing: 20px;
 
 td {
     padding-left: 20px;
-    border-spacing: 15px;
+    border-spacing: 40px;
 }
 
 td:hover {
