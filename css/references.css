@@ -1,4 +1,8 @@
 /* Setting the background of all the references I have.*/
 .firstReference {
-  background-image: url
+  background-image: url ("images/DuPageFoundation_Logo.png");
+}
+
+.secondReference {
+  background-image: url ("images/MAC-Building-Entrance.jpeg");
 }
