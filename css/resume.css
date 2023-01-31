@@ -34,9 +34,14 @@ td {
     padding-left: 50px;
 }
 
-th {
+.header1 {
     font-size: 25px;
-    color: rgb(31, 38, 48);
+    color: rgb(119, 167, 236);
+}
+
+.header2 {
+    font-size: 25px;
+    color: rgb(50, 91, 146);
 }
 
 
