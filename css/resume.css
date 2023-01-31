@@ -24,12 +24,12 @@ p {
 
 /* Editing the table where the resumes are. */
 table {
-    padding: 20%;
+    padding: 50px;
 }
 
 td {
     margin: 30%;
-    padding-left: 20%;
+    padding-left: 25px;
 }
 
 td:hover {
