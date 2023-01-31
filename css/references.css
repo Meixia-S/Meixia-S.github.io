@@ -11,7 +11,7 @@ body {
 .secondReference {
   background-image: url(images/DuPageFoundation_Logo.png); 
   background-repeat: no-repeat;
-  height: 100%;
+  height: 50%;
 }
 
 .secondReference:hover {
