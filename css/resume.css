@@ -17,7 +17,7 @@ h1 {
 p {
     font-size: 20px;
     font-style: italic;
-    text-align: middle;
+    text-align: center;
     left-margin: 10%;
 }
 
@@ -48,7 +48,12 @@ font-size: 25px;
     margin-left: 25%;
     border: 8px solid rgb(119, 167, 236);
 }
-    
+  
+.resumeImage1:hover {
+    height: 800px;
+    width: 650px;
+}
+
 .resumeImage2 {
     height: 600px;
     width: 450px;
@@ -56,7 +61,8 @@ font-size: 25px;
     border: 8px solid rgb(50, 91, 146);
 }
 
-.resumeImage1, .resumeImage2:hover {
+.resumeImage2:hover {
     height: 800px;
     width: 650px;
 }
+
