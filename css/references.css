@@ -1,8 +1,16 @@
+/* Setting background color. */
+body {
+  background: linear-gradient(black, white, black);
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
+
 /* Setting the background of all the references I have.*/
-.firstReference {
+.secondReference {
   background-image: url ("images/DuPageFoundation_Logo.png");
 }
 
-.secondReference {
+.thirdReference {
   background-image: url ("images/MAC-Building-Entrance.jpeg");
 }
