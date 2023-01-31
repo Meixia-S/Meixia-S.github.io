@@ -38,8 +38,6 @@
   </header>
    
   <body>
-      
-
     <div class="navcontainer"> 
             <!-- adding the top bar with contact information and other options. -->
             <div class="topbar">
