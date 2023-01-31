@@ -21,7 +21,7 @@
   img {
     opacity: 0.6;
     background-repeat: no-repeat;
-    wdith: 100%;
+    width: 100%;
   }
   
 .image-wrapper {
@@ -32,7 +32,6 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
 }
 
 .fourthReference {
