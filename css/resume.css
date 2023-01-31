@@ -19,17 +19,18 @@ p {
     font-style: italic;
     text-align: left;
     padding-left: 12%;
+    padding-bottom: 10px;
 }
 
 
 /* Editing the table where the resumes are. */
 table {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 td {
-    margin: 30%;
+    margin: 40%;
     padding-left: 20px;
 }
 
