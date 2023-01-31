@@ -25,6 +25,10 @@ table {
 border-spacing: 20px;
 }
 
+td:hover {
+    border-spacing: 10px;
+}
+
 th {
 font-size: 25px;
 }
