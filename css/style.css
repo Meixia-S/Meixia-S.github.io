@@ -23,7 +23,6 @@ img {
 }
 
 
-
 /* Creating the top nagigation bar. */
 .topbar {
     background-color:rgb(31, 38, 48);
@@ -50,7 +49,8 @@ img {
     background-color: rgb(119, 167, 236);
 }
 
-/* rgb(50, 91, 146); */
+
+/* What color is this? rgb(50, 91, 146); */
 
 /* .centered, p, .intro1, .intro2:
    centers text, gets rid of spacing issues, fixes the font size and color */
@@ -61,6 +61,7 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 
 /* Fixes the spacing between the paragraphs and edits the font size and color. */
 p {
@@ -85,7 +86,7 @@ p {
 .gradient1 {
     top: 75%;
     height: 400px;
-    margin-top: -3px;
+    margin-top: -4px;
     background-color: rgb(31, 38, 48);
     background-image: linear-gradient(rgb(69, 75, 89), white);
 }
