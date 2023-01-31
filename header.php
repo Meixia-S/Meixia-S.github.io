@@ -1,9 +1,39 @@
-<!DOCTYLE html>   
+<!DOCTYPE html>   
 <html>
   <header>
     <title> Menu Bar Code </title>
     
     <style>
+      .navcontainer {
+    position: rel;
+    width: auto;
+    margin: 0;
+}
+
+.topbar {
+    background-color:rgb(31, 38, 48);
+    overflow: hidden;
+}
+
+.topbar a {
+    float: left;
+    color:rgb(141, 156, 179);
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 27px;
+}
+
+.topbar i {
+    float: left;
+    color: rgb(141, 156, 179);
+    text-align: center;
+    padding: -1px 12px;
+    font-size: 30px;
+}
+
+.topbar a:hover {
+    background-color: rgb(119, 167, 236);
+}
     </style>
   </header>
    
