@@ -16,7 +16,7 @@ h1 {
 
 /* Editing the table where the resumes are. */
 table {
-border-spacing: 30px;
+border-spacing: 20px;
 }
 
 th {
@@ -34,17 +34,18 @@ font-size: 25px;
 
 /* Formatting the resumes images. */
 .resumeImage1 {
-    height: 800px;
-    width: 650px;
+    height: 600px;
+    width: 450px;
     margin-left: 25%;
     border: 8px solid rgb(119, 167, 236);
     
 }
     
 .resumeImage2 {
-    height: 800px;
-    width: 650px;
+    height: 600px;
+    width: 450px;
     margin-left: 25%;
+    margin-right: 25%;
     border: 8px solid rgb(50, 91, 146);
 }
    
