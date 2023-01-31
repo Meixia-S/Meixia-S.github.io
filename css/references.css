@@ -12,6 +12,7 @@ body {
   background-image: url(images/DuPageFoundation_Logo.png); 
   background-repeat: no-repeat;
   height: 50%;
+  font-color: black; 
 }
 
 .secondReference:hover {
@@ -33,6 +34,7 @@ body {
   background-repeat: no-repeat;
   width: 100%;
   opacity: 0.6;
+  font-color: black; 
 }
 
 .fourthReference {
@@ -40,6 +42,7 @@ body {
   background-repeat: no-repeat;
   width: 100%;
   opacity: 0.6;
+  font-color: black; 
 }
 
 /* Adding the hover feature to the text. */
