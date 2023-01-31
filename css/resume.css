@@ -35,15 +35,8 @@ td {
 }
 
 th {
-font-size: 25px;
-}
-
-.header1 {
-    color: rgb(119, 167, 236);
-}
-
-.header2 {
-    color: rgb(50, 91, 146)
+    font-size: 25px;
+    color: rgb(31, 38, 48);
 }
 
 
