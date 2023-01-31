@@ -18,17 +18,14 @@
   font-size: 25px;
 }
 
-img {
-    opacity: 0.6;
-    background-repeat: no-repeat;
-    width: 100%;
+.thirdReference {
+  background: url(images/MAC_Building-Entrance.jpg);
+  opacity: 0.6;
+  background-repeat: no-repeat;
+  width: 100%;
   }
   
-.image-wrapper {
-  position: relative;
-}
-  
-.thirdReference {
+  .layer {
   position: absolute;
   top: 0;
   left: 0;
