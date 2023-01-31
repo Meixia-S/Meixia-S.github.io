@@ -28,9 +28,15 @@ body {
   opacity: 0.6;
 }
 
+/* Adding the hover feature to the text. */
+h4:hover {
+  font-size: 26px;
+}
+
 p:hover {
   font-size: 15px;
 }
 
 .contact:hover {
+  font-size: 20px;
 }
