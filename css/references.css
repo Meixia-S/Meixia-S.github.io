@@ -1,4 +1,8 @@
 /* Setting the background of all the references I have.*/
+.firstReference {
+  display: block;
+}
+
 .img1 {
   background-repeat: no-repeat;
   position: absolute;
@@ -9,6 +13,10 @@
 
 .container1 {
   font-color: black;
+}
+
+.secondReference {
+  display: block;
 }
 
 .img2 {
@@ -23,6 +31,10 @@
   font-color: black;
 }
 
+.thirdReference {
+  display: block;
+}
+
 .img3 {
   background-repeat: no-repeat;
   position: absolute;
@@ -33,6 +45,10 @@
 
 .container3 {
   font-color: black;
+}
+
+.fourthReference {
+  display: block;
 }
 
 .img4 {
