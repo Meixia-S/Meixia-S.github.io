@@ -9,24 +9,22 @@
   background-image: url('../images/MAC-Building-Entrance.jpg');
   background-repeat: no-repeat;
   position: absolute;
-  width: 500px;
-  height: 250px;
   opacity: 0.6;
   }
+
+.img3 {
+  width: 800px;
+  height: 300px;
+}
+
+.container3 {
+  font-color: black;
+}
 
 .fourthReference {
   background-image: url("../images/GlenbardWest.jpg");
   background-repeat: no-repeat;
   position: absolute;
   opacity: 0.6;
-}
-
-.img4 {
-  width: 500px;
-  height: 250px;
-}
-
-.container4 {
-  font-color: black;
 }
 
