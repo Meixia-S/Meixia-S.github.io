@@ -11,6 +11,17 @@
   background-size: cover;
   opacity: 0.6;
   }
+  
+.img3 {
+  position: absolute;
+  width: 500px;
+  height: 250px;
+  opacity: 0.6;
+}
+
+.container3 {
+  color: black;
+}
 
 .fourthReference {
   background-image: url("../images/GlenbardWest.jpg");
@@ -20,9 +31,4 @@
   opacity: 0.6;
 }
 
-img {
-  background-repeat: no-repeat;
-  width: 500px;
-  height: 250px;
-  opacity: 0.6;
-}
+
