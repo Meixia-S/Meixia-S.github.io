@@ -68,9 +68,9 @@
 
 /* Changing the font for all divs. */
 p {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 p.contact {
-  font-size: 25px;
+  font-size: 20px;
 }
