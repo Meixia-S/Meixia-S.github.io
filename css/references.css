@@ -34,6 +34,7 @@
 .container2{
   font-color: black;
   left: 10px;
+  top: 400px;
 }
 
 .thirdReference {
@@ -53,6 +54,7 @@
 .container3 {
   font-color: black;
   left: 10px;
+  top: 675px;
 }
 
 .fourthReference {
@@ -72,6 +74,7 @@
 .container4 {
   font-color: black;
   left: 10px;
+  top: 1025px;
 }
 
 /* Changing the font for all divs. */
