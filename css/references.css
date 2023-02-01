@@ -67,6 +67,10 @@
 }
 
 /* Changing the font for all divs. */
+h4 {
+  font-size: 22px;
+}
+
 p {
   font-size: 15px;
 }
