@@ -18,14 +18,14 @@
   font-size: 25px;
 }
 
-.thirdReference {
+#thirdReference {
   background: url(images/MAC-Building-Entrance.jpg);
   background-repeat: no-repeat;
   width: 100%;
   opacity: 0.6;
   }
 
-.fourthReference {
+#fourthReference {
   background-image: url(images/GlenbardWest.jpg);
   background-repeat: no-repeat;
   width: 100%;
