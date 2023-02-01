@@ -21,13 +21,14 @@
 .thirdReference {
   background-image: url('images/MAC-Building-Entrance.jpg');
   background-repeat: no-repeat;
-  width: 100%;
+  width: 50%;
+  height: 50%;
   opacity: 0.6;
   }
 
 .fourthReference {
   background-image: url("images/GlenbardWest.jpg");
   background-repeat: no-repeat;
-  width: 100%;
+  width: 50%;
   opacity: 0.6;
 }
