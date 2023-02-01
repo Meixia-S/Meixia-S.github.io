@@ -19,14 +19,14 @@
 }
 
 .thirdReference {
-  background-image: url(/images/MAC-Building-Entrance.jpg);
+  background-image: url(../images/MAC-Building-Entrance.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.6;
   }
 
 .fourthReference {
-  background-image: url(/images/GlenbardWest.jpg);
+  background-image: url(../images/GlenbardWest.jpg);
   background-repeat: no-repeat;
   width: 50%;
   height: 50%;
