@@ -62,3 +62,12 @@
 .container4 {
   font-color: black;
 }
+
+/* Changing the font for all divs. */
+p {
+  font-size: 20px;
+}
+
+p.contact {
+  font-size: 25px;
+}
