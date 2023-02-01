@@ -1,18 +1,19 @@
 /* Setting the background of all the references I have.*/
-.secondReference {
-  background-image: url(images/DuPageFoundation_Logo.png); 
-  background-repeat: no-repeat;
-  width: 100%;
-}
-
-/*
-.thirdReference {
-  background-image: url('../images/MAC-Building-Entrance.jpg');
+.img1 {
   background-repeat: no-repeat;
   position: absolute;
   opacity: 0.6;
-  }
-*/
+  width: 100%;
+  height: 300px;
+}
+
+.img2 {
+  background-repeat: no-repeat;
+  position: absolute;
+  opacity: 0.6;
+  width: 100%;
+  height: 300px;
+}
 
 .img3 {
   background-repeat: no-repeat;
@@ -24,13 +25,6 @@
 
 .container3 {
   font-color: black;
-}
-
-.fourthReference {
-  background-image: url("../images/GlenbardWest.jpg"); 
-  background-repeat: no-repeat;
-  position: absolute;
-  opacity: 0.6;
 }
 
 .img4 {
