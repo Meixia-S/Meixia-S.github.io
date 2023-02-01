@@ -19,20 +19,15 @@
 }
 
 .thirdReference {
-  background: url(images/MAC_Building-Entrance.jpg);
-  opacity: 0.6;
+  background: url(images/MAC-Building-Entrance.jpg);
   background-repeat: no-repeat;
   width: 100%;
+  opacity: 0.6;
   }
-  
-  .layer {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
 
 .fourthReference {
   background-image: url(images/GlenbardWest.jpg);
   background-repeat: no-repeat;
   width: 100%;
+  opacity: 0.6;
 }
