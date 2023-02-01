@@ -1,6 +1,7 @@
 /* Setting the background of all the references I have.*/
 .firstReference {
   display: block;
+  height: 300px;
 }
 
 .img1 {
@@ -16,7 +17,7 @@
 }
 
 .secondReference {
-  display: block;
+  height: 300px;
 }
 
 .img2 {
@@ -34,6 +35,7 @@
 
 .thirdReference {
   display: block;
+  height: 300px;
 }
 
 .img3 {
@@ -51,6 +53,7 @@
 
 .fourthReference {
   display: block;
+  height: 300px;
 }
 
 .img4 {
