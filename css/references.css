@@ -9,15 +9,18 @@
   background-image: url('../images/MAC-Building-Entrance.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  position: absolute;
   opacity: 0.6;
   }
   
+/*
 .img3 {
-  position: absolute;
+
   width: 500px;
   height: 250px;
   opacity: 0.6;
 }
+*/
 
 .container3 {
   color: black;
