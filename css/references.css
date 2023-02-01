@@ -22,7 +22,7 @@
 }
 
 .fourthReference {
-  /* background-image: url("../images/GlenbardWest.jpg"); */
+  background-image: url("../images/GlenbardWest.jpg"); 
   background-repeat: no-repeat;
   position: absolute;
   opacity: 0.6;
