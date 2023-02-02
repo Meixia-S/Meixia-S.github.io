@@ -21,8 +21,8 @@
 }
 
 .container1:hover {
-  background: rgb(204, 204, 204);
-  background: rgba(204, 204, 204, 0.5);
+  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.5);
 }
 /* -----------------------------------------*/
 
@@ -47,6 +47,11 @@
   left: 50%;
   top: 525px;
 }
+
+.container2:hover {
+  background: rgb(230, 230, 250);
+  background: rgba(230, 230, 250, 0.5);
+}
 /* -----------------------------------------*/
 
 .thirdReference {
@@ -69,6 +74,11 @@
   position: absolute;
   left: 50%;
   top: 850px;
+}
+
+.container3:hover {
+  background: rgb(255, 99, 71);
+  background: rgba(255, 99, 71, 0.5);
 }
 /* -----------------------------------------*/
 
@@ -93,6 +103,12 @@
   left: 50%;
   top: 1175px;
 }
+
+.container4:hover {
+  background: rgb(34, 139, 34);
+  background: rgba(34, 139, 34, 0.5);
+}
+/* -----------------------------------------*/
 
 
 /* Changing the font for all divs. */
