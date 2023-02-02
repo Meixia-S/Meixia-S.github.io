@@ -17,6 +17,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
+  top: 50px;
 }
 
 .secondReference {
@@ -38,7 +39,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 400px;
+  top: 600px;
 }
 
 .thirdReference {
@@ -71,7 +72,7 @@
 .img4 {
   background-repeat: no-repeat;
   position: absolute;
-  top: 1125px;
+  top: 975px;
   opacity: 0.6;
   width: 100%;
   height: 300px;
@@ -82,7 +83,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 1150px;
+  top: 1175px;
 }
 
 
