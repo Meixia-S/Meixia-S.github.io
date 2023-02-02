@@ -87,13 +87,14 @@ p {
     height: 400px;
     margin-top: -4px;
     background-color: rgb(31, 38, 48);
-    background-image: linear-gradient(rgb(31, 38, 48), white);
+    background: radial-gradient(rgb(31, 38, 48), white);
 }
 
 /* Below the title screen section. */
 .mainContainer {
     background: rgb(31, 38, 48);
     background: linear-gradient(to right, black, rgb(236,239,240) 20% 80%, black);
+    margin-top: -20px;
 }
 
 .paragraph1,.paragraph2, .paragraph3, .paragraph4 {
