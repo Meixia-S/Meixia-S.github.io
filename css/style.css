@@ -93,7 +93,7 @@ p {
 /* Below the title screen section. */
 .mainContainer {
     background: rgb(31, 38, 48);
-    background: linear-gradient(to right, black, rgb(236,239,240) 20% 80%, black);
+    background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 20% 80%, rgb(31, 38, 48));
     margin-top: -20px;
 }
 
