@@ -92,7 +92,8 @@ p {
 
 /* Below the title screen section. */
 .mainContainer {
-    background-color: rgb(31, 38, 48);
+    background: rgb(31, 38, 48);
+    background: linear-gradient(to right, black, white 10% 90%, black);
 }
 
 .paragraph1,.paragraph2, .paragraph3, .paragraph4 {
