@@ -1,3 +1,10 @@
+/* Formatting the header for this page. */
+.header {
+  background: rgb(31, 38, 48);
+  font-color: white;
+}
+
+
 /* Setting the background of all the references I have.*/
 .firstReference {
   display: block;
