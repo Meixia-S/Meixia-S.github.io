@@ -87,7 +87,7 @@ p {
     height: 400px;
     margin-top: -4px;
     background-color: rgb(31, 38, 48);
-    background: radial-gradient(rgb(31, 38, 48), white);
+    background: radial-gradient(white, rgb(31, 38, 48));
 }
 
 /* Below the title screen section. */
@@ -98,12 +98,12 @@ p {
 }
 
 .paragraph1,.paragraph2, .paragraph3, .paragraph4 {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
 }
 
 /* Resizing and editing the bostonMap image. */
-.bostonMap {'
+.bostonMap {
     height: 400px;
     width: 400px;
 }
