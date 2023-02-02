@@ -14,7 +14,7 @@
 
 .container1 {
   text-align: center;
-  font-color: black;
+  position: absolute;
   left: 10px;
 }
 
@@ -34,7 +34,7 @@
 
 .container2{
   text-align: center;
-  font-color: black;
+  position: absolute;
   left: 10px;
   top: 400px;
 }
@@ -55,7 +55,7 @@
 
 .container3 {
   text-align: center;
-  font-color: black;
+  position: absolute;
   left: 10px;
   top: 500px;
 }
@@ -76,7 +76,7 @@
 
 .container4 {
   text-align: center;
-  font-color: black;
+  position: absolute;
   left: 10px;
   top: 600px;
 }
