@@ -13,6 +13,7 @@
 }
 
 .container1 {
+  transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
   left: 10px;
@@ -33,6 +34,7 @@
 }
 
 .container2{
+  transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
   left: 10px;
@@ -54,10 +56,11 @@
 }
 
 .container3 {
+  transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
   left: 10px;
-  top: 500px;
+  top: 700px;
 }
 
 .fourthReference {
@@ -75,10 +78,11 @@
 }
 
 .container4 {
+  transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
   left: 10px;
-  top: 600px;
+  top: 1000px;
 }
 
 
