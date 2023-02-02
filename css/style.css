@@ -87,5 +87,14 @@ p {
     height: 400px;
     margin-top: -4px;
     background-color: rgb(31, 38, 48);
-    background-image: linear-gradient(rgb(69, 75, 89), white);
+    background-image: linear-gradient(rgb(31, 38, 48), white);
+}
+
+/* Below the title screen section. */
+.mainContainer {
+    background-color: rgb(31, 38, 48);
+}
+
+.paragraph1, .paragraph2, .paragraph3, .paragraph4 {
+    background-color: rgb(236,239,240);
 }
