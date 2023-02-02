@@ -97,6 +97,8 @@ p {
 
 .paragraph1,.paragraph2, .paragraph3, .paragraph4 {
     background-color: rgb(236,239,240);
-    padding-left: 200px;
-    padding-right: 200px;
+    /* padding-left: 200px; */
+    /* padding-right: 200px; */
+    margin-left: 200px;
+    margin-rigth: 200px;
 }
