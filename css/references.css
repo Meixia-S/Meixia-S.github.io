@@ -21,9 +21,9 @@
 }
 
 .container1:hover {
-  background-color: white;
-  opacity: 0.2;
+  background: rgba(204, 204, 204, 0.5);
 }
+/* -----------------------------------------*/
 
 .secondReference {
   display: block;
@@ -46,6 +46,7 @@
   left: 50%;
   top: 550px;
 }
+/* -----------------------------------------*/
 
 .thirdReference {
   display: block;
@@ -68,6 +69,7 @@
   left: 50%;
   top: 850px;
 }
+/* -----------------------------------------*/
 
 .fourthReference {
   display: block;
