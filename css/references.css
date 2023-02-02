@@ -1,8 +1,8 @@
 /* Formatting the header for this page. */
 .header {
   background: rgb(31, 38, 48);
-  padding-bottom: 40px;
-  paddint-right: 100px;
+  padding-bottom: 20px;
+  margin-left: 20px;
   color: white;
 }
 
