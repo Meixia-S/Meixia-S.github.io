@@ -16,7 +16,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
-  left: 10px;
+  left: 50%;
 }
 
 .secondReference {
@@ -37,7 +37,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
-  left: 10px;
+  left: 50%;
   top: 400px;
 }
 
@@ -59,7 +59,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
-  left: 10px;
+  left: 50%;
   top: 700px;
 }
 
@@ -71,7 +71,7 @@
 .img4 {
   background-repeat: no-repeat;
   position: absolute;
-  top: 1050px;
+  top: 1000px;
   opacity: 0.6;
   width: 100%;
   height: 300px;
@@ -81,7 +81,7 @@
   transform: translate(-50%, -50%);
   text-align: center;
   position: absolute;
-  left: 10px;
+  left: 50%;
   top: 1000px;
 }
 
