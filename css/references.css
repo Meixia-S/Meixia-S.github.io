@@ -1,7 +1,9 @@
 /* Formatting the header for this page. */
 .header {
   background: rgb(31, 38, 48);
-  font-color: white;
+  padding-bottom: 40px;
+  paddint-right: 100px;
+  color: white;
 }
 
 
