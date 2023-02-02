@@ -87,7 +87,7 @@ p {
     height: 400px;
     margin-top: -4px;
     background-color: rgb(31, 38, 48);
-    background: radial-gradient(100% 100% at bottom, white 3%, rgb(31, 38, 48));
+    background: radial-gradient(50% 100% at bottom, white 3%, rgb(31, 38, 48));
 }
 
 /* Below the title screen section. */
