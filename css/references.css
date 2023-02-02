@@ -27,7 +27,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 275px;
+  top: 300px;
 }
 
 .container1:hover {
@@ -56,7 +56,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 650px;
+  top: 615px;
 }
 
 .container2:hover {
@@ -73,7 +73,7 @@
 .img3 {
   background-repeat: no-repeat;
   position: absolute;
-  top: 800px;
+  top: 810px;
   opacity: 0.6;
   width: 100%;
   height: 300px;
@@ -84,7 +84,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 915px;
+  top: 920px;
 }
 
 .container3:hover {
@@ -101,7 +101,7 @@
 .img4 {
   background-repeat: no-repeat;
   position: absolute;
-  top: 1075px;
+  top: 1200px;
   opacity: 0.6;
   width: 100%;
   height: 300px;
