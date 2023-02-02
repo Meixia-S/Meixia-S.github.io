@@ -93,15 +93,16 @@ p {
 /* Below the title screen section. */
 .mainContainer {
     background: rgb(31, 38, 48);
-    background: linear-gradient(to right, black, white 10% 90%, black);
+    background: linear-gradient(to right, black, rgb(236,239,240) 20% 80%, black);
 }
 
 .paragraph1,.paragraph2, .paragraph3, .paragraph4 {
-    background-color: rgb(236,239,240);
     margin-left: 200px;
     margin-right: 200px;
 }
 
 /* Resizing and editing the bostonMap image. */
-.bostonMap {
+.bostonMap {'
+    height: 400px;
+    width: 400px;
 }
