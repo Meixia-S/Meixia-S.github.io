@@ -20,6 +20,11 @@
   top: 175px;
 }
 
+.container1:hover {
+  background-color: white;
+  opacity: 0.2;
+}
+
 .secondReference {
   display: block;
   height: 300px;
