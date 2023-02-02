@@ -1,6 +1,7 @@
 /* Formatting the header for this page. */
 .header {
   background: rgb(31, 38, 48);
+  padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
   color: white;
