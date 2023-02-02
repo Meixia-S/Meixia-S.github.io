@@ -87,7 +87,7 @@ p {
     height: 400px;
     margin-top: -4px;
     background-color: rgb(31, 38, 48);
-    background: radial-gradient(white, rgb(31, 38, 48));
+    background: radial-gradient(white 3%, rgb(31, 38, 48));
 }
 
 /* Below the title screen section. */
@@ -104,6 +104,6 @@ p {
 
 /* Resizing and editing the bostonMap image. */
 .bostonMap {
-    height: 400px;
-    width: 400px;
+    max-height: 400px;
+    max-width: 400px;
 }
