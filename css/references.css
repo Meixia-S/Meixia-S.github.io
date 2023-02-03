@@ -29,10 +29,6 @@
   left: 50%;
   top: 300px;
 }
-
-.container1:hover + .img1 {
-  opacity: 0.3;
-}
 /* -----------------------------------------*/
 
 .secondReference {
@@ -57,11 +53,6 @@
   left: 50%;
   top: 615px;
 }
-
-.container2:hover {
-  background: rgb(230, 230, 250);
-  background: rgba(230, 230, 250, 0.5);
-}
 /* -----------------------------------------*/
 
 .thirdReference {
@@ -85,11 +76,6 @@
   left: 50%;
   top: 930px;
 }
-
-.container3:hover {
-  background: rgb(255, 99, 71);
-  background: rgba(255, 99, 71, 0.3);
-}
 /* -----------------------------------------*/
 
 .fourthReference {
@@ -112,11 +98,6 @@
   position: absolute;
   left: 50%;
   top: 1200px;
-}
-
-.container4:hover {
-  background: rgb(34, 139, 34);
-  background: rgba(34, 139, 34, 0.3);
 }
 /* -----------------------------------------*/
 
