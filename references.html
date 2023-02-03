@@ -18,7 +18,7 @@
     
      <div class= "firstReference">
        <img class= "img1" src=" images/Vacant.jpg" alt= "joke image" />
-       <div class= "container1">
+       <div class= "container1" mouseover="oChange1('0.3')" mouseout="oChange1('0.5')">
          <h4> Name 1 </h4>
          <p>  title, job </p>  
          <p class= "contact"> Contact Information: </p>
@@ -40,7 +40,7 @@
     
     <div class= "thirdReference">
       <img class= "img3" src= "images/MAC-Building-Entrance.jpg" alt= "MAC building image" />
-      <div class= "container3">
+      <div class= "container3" mouseover="oChange3('0.3')" mouseout="oChange3('0.5')"; >
         <h4> Rob Nardini </h4>
         <p>  title, job </p>  
         <p class= "contact"> Contact Information: </p>
@@ -60,5 +60,10 @@
       </div>
     </div>
     
+    <script>
+      let oChange1 = function(opacity) {
+        document.getElementById('img1').style.opacity = opacity;
+    }
+    </script> 
   </body>
 </html>
