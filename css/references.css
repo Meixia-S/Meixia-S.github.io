@@ -30,7 +30,7 @@
   top: 300px;
 }
 
-.container1:hover .img1 {
+.container1:hover + .img1 {
   opacity: 0.3;
 }
 /* -----------------------------------------*/
@@ -72,7 +72,7 @@
 .img3 {
   background-repeat: no-repeat;
   position: absolute;
-  top: 795px;
+  top: 790px;
   opacity: 0.6;
   width: 100%;
   height: 300px;
@@ -83,7 +83,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 920px;
+  top: 930px;
 }
 
 .container3:hover {
@@ -100,7 +100,7 @@
 .img4 {
   background-repeat: no-repeat;
   position: absolute;
-  top: 1150px;
+  top: 1100x;
   opacity: 0.6;
   width: 100%;
   height: 300px;
@@ -111,7 +111,7 @@
   text-align: center;
   position: absolute;
   left: 50%;
-  top: 1175px;
+  top: 1200px;
 }
 
 .container4:hover {
