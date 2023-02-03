@@ -30,9 +30,8 @@
   top: 300px;
 }
 
-.container1:hover {
-  background: rgb(255, 255, 255);
-  background: rgba(255, 255, 255, 0.5);
+.container1:hover .img1 {
+  opacity: 0.3;
 }
 /* -----------------------------------------*/
 
