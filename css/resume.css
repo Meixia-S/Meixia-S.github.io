@@ -18,6 +18,10 @@
     font-size: 27px;
 }
 
+.topbar a:hover {
+    background-color: rgb(119, 167, 236);
+}
+
 .topbar i {
     float: left;
     color: rgb(141, 156, 179);
@@ -26,10 +30,9 @@
     font-size: 30px;
 }
 
-.topbar a:hover {
-    background-color: rgb(119, 167, 236);
+#resume {
+    background-color: rgb(50, 91, 146);
 }
-
 
 /* setting up the background cover so it looks good */
 body {
