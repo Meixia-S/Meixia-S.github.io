@@ -36,6 +36,10 @@ img {
     font-size: 27px;
 }
 
+.topbar a:hover {
+    background-color: rgb(119, 167, 236);
+}
+
 .topbar i {
     float: left;
     color: rgb(141, 156, 179);
@@ -44,12 +48,9 @@ img {
     font-size: 30px;
 }
 
-.topbar a:hover {
-    background-color: rgb(119, 167, 236);
+#home {
+    background-color: rgb(50, 91, 146); 
 }
-
-
-/* What color is this? rgb(50, 91, 146); */
 
 /* .centered, p, .intro1, .intro2:
    centers text, gets rid of spacing issues, fixes the font size and color */
