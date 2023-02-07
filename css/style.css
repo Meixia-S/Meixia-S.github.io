@@ -52,6 +52,13 @@ img {
     background-color: rgb(50, 91, 146); 
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
 /* .centered, p, .intro1, .intro2:
    centers text, gets rid of spacing issues, fixes the font size and color */
 .centered {
