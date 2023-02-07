@@ -102,13 +102,13 @@ p {
 /* Below the title screen section. */
 .mainContainer {
     background: rgb(31, 38, 48);
-    background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 20% 80%, rgb(31, 38, 48));
+    background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 30% 70%, rgb(31, 38, 48));
     margin-top: -20px;
 }
 
 .paragraph1,.paragraph2, .paragraph3, .paragraph4 {
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 /* Resizing and editing the bostonMap image. */
