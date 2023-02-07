@@ -115,3 +115,13 @@ p {
     max-height: 400px;
     max-width: 400px;
 }
+
+/* Getting rid of the margin that lines the entire page. */
+
+body {
+  overflow-x: hidden;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
