@@ -64,11 +64,6 @@ table {
     padding-right: 50px;
 }
 
-th {
-    text-align: center;
-    padding-left: 20px;
-}
-
 td {
     margin: 40%;
     padding-left: 50px;
@@ -76,7 +71,7 @@ td {
 
 .header1 {
     color: rgb(119, 167, 236);
-    text-align: center;
+    padding-left: 20px;
     font-size: 25px;
 }
 
