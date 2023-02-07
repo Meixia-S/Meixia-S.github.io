@@ -75,13 +75,15 @@ td {
 }
 
 .header1 {
-    font-size: 25px;
     color: rgb(119, 167, 236);
+    text-align: center;
+    font-size: 25px;
 }
 
 .header2 {
-    font-size: 25px;
     color: rgb(50, 91, 146);
+    text-align: center;
+    font-size: 25px;
 }
 
 
