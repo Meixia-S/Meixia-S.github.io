@@ -122,5 +122,21 @@
   </div>
   
  </div>
+ 
+ <script>
+  window.onscroll = function() {stickyNavBar()};
+  
+  var topbar = document.getElementById("topbar");
+  var sticky = navbar.offsetTop;
+  
+  let stickyNavBar = function() {
+   if (window.pageYOffset >= sticky) {
+    topbar.classList.add("sticky")
+   } else {
+    topbar.classList.remove("sticky");
+   }
+  }
+  
+ </script> 
 </body>
 </html>
