@@ -124,18 +124,17 @@
  </div>
  
  <script>
-  window.onscroll = function() {stickyNavBar()};
-  
   var topbar = document.getElementById("topbar");
-  var sticky = navbar.offsetTop;
+  var locY = topbar.getBoundingClientRect().top;
   
-  let stickyNavBar = function() {
-   if (window.pageYOffset >= sticky) {
-    topbar.classList.add("sticky");
+  window.addEventListener("scroll", e => {
+   let scrollPos = window.scrollY;
+   if(scroll > locY) {
+    topbar.classList.add("sticky"); 
    } else {
-    topbar.classList.remove("sticky");
+   topbar.classList.remove("sticky");
    }
-  }
+  });
   
  </script> 
 </body>
