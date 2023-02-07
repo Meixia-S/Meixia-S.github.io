@@ -64,6 +64,10 @@ table {
     padding-right: 50px;
 }
 
+th {
+    text-align: center;
+}
+
 td {
     margin: 40%;
     padding-left: 50px;
