@@ -92,11 +92,11 @@ p {
 
 .gradient1 {
     top: 75%;
-    height: 500px;
+    height: 510px;
     width: 100%;
     margin-top: -4px;
     background-color: rgb(236,239,240);
-    background: radial-gradient(55% 80% at bottom, rgb(236,239,240) 50%, rgb(31, 38, 48));
+    background: radial-gradient(50% 80% at bottom, rgb(236,239,240) 50%, rgb(31, 38, 48));
 }
 
 /* Below the title screen section. */
