@@ -34,3 +34,8 @@ td {
   font-size: 20px;
   padding: 20px;
 }
+
+.link1, .link2, .link3, .link4, .link5 {
+  height: 20px;
+  width: 20px; 
+}
