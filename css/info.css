@@ -21,8 +21,9 @@ table {
   background-color: white;
 }
 
-th {
+.header1, .header2, .header3 {
   front-size: 25px;
+  padding: 20px;
 }
 
 tr {
@@ -31,4 +32,5 @@ tr {
 
 td {
   font-size: 20px;
+  padding: 20px;
 }
