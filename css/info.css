@@ -6,7 +6,7 @@ body {
   background-repeat: no-repeat;
 }
 
-/* Button */
+/* Button formatting. */
 .btn {
     background-color: rgb(141, 156, 179);
     padding-right: 20px;
@@ -18,6 +18,15 @@ body {
     font-family: "Times New Roman";
 }
 
+/* Formatting the table and its contents. */
 table {
   border: 5px solid black;
+}
+
+td {
+  font-size: 20px;
+}
+
+h2 {
+  front-size: 25px;
 }
