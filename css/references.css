@@ -37,7 +37,7 @@
 
 /* Formatting the header for this page. */
 .header {
-  background: rgb(111, 126, 149);
+  background-color: rgb(111, 126, 149);
   color: rgb(31, 38, 48);
   padding-top: 10px;
   padding-bottom: 10px;
