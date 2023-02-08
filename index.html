@@ -163,8 +163,8 @@
  </div>
  
  <script>
-  const topbar = document.querySelector("#topbar");
-  top = topbar.offsetTop;
+  var topbar = document.getElementById("topbar");
+  var top = topbar.offsetTop;
   
   function stickyTopbar() {
    if (window.scrollY >= top) {
