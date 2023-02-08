@@ -3,16 +3,21 @@ body {
   background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70%),
               linear-gradient(127deg, rgba(255,255,255,.8), rgba(0,255,0,0) 70%),
               linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70%);
+  background-repeat: no-repeat;
 }
 
 /* Button */
 .btn {
     background-color: rgb(141, 156, 179);
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
     text-align: center;
     font-size: 18px;
-    margin-left: 260px;
+    margin-left: 400px;
     position: absolute;
     font-family: "Times New Roman";
+}
+
+table {
+  border: 5px solid black;
 }
