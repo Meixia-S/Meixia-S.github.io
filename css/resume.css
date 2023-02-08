@@ -57,6 +57,15 @@ p {
     padding-bottom: 10px;
 }
 
+.btn {
+    background-color: rgb(141, 156, 179);
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    top: 50px;
+    left: 500x;
+}
+
 
 /* Editing the table where the resumes are. */
 table {
