@@ -59,11 +59,13 @@ p {
 
 .btn {
     background-color: rgb(141, 156, 179);
+    padding-right: 10px;
+    padding-left: 10px;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
     color: white;
-    top: 50px;
-    left: 500x;
+    top: 12%;
+    left: 60%;
 }
 
 
