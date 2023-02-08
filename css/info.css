@@ -20,13 +20,17 @@ body {
 
 /* Formatting the table and its contents. */
 table {
-  border: 5px solid black;
+  border: 2px solid black;
+}
+
+th {
+  front-size: 25px;
+}
+
+tr {
+  border: 2px dashed black;
 }
 
 td {
   font-size: 20px;
-}
-
-h2 {
-  front-size: 25px;
 }
