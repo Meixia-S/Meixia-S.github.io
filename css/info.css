@@ -38,6 +38,7 @@ table {
 
 .padding {
   height: 30px;
+  background: transparent;
 }
 
 h3 {
