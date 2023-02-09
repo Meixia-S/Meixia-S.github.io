@@ -59,6 +59,12 @@ img {
 }
 
 
+/* Changing the spacing of some of the text. */
+.spacing1, .spacing2 {
+  padding-left: 10px;
+}
+
+
 /* Getting rid of the margin that lines the entire page. */
 body {
   overflow-x: hidden;
