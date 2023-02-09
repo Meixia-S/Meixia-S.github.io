@@ -81,13 +81,13 @@ td {
     padding-bottom: 20px;
 }
 
-p.header1 {
+.header1 {
     color: rgb(119, 167, 236);
     text-align: center;
     font-size: 25px;
 }
 
-p.header2 {
+.header2 {
     color: rgb(50, 91, 146);
     text-align: center;
     font-size: 25px;
