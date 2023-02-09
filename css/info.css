@@ -36,6 +36,10 @@ table {
   background-color: white;
 }
 
+.padding {
+  height: 30px;
+}
+
 h3 {
   front-size: 32px;
   padding-right: 20px;
