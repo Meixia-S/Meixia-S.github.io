@@ -34,6 +34,7 @@
     background-color: rgb(50, 91, 146);
 }
 
+
 /* setting up the background cover so it looks good */
 body {
     height: 100%;
@@ -83,7 +84,7 @@ td {
 
 .header1 {
     color: rgb(119, 167, 236);
-    padding-left: 25px;
+    padding-left: 50px;
     text-align: center;
     font-size: 25px;
 }
@@ -118,4 +119,3 @@ td {
     height: 800px;
     width: 650px;
 }
-
