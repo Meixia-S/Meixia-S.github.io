@@ -156,7 +156,7 @@ p.contact {
 /* Changing the email link text color to black. */
 a:link {
     text-decorations: none;
-    font-color: black;
+    color: black;
 }
 
 
