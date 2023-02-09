@@ -37,7 +37,7 @@ table {
 }
 
 .padding {
-  height: 50px;
+  height: 60px;
   text-align: center;
   background: transparent;
 }
@@ -84,5 +84,5 @@ body {
   margin-top: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  margin-bottom: -5px;
+  margin-bottom: -10px;
 }
