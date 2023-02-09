@@ -83,12 +83,14 @@ td {
 
 .header1 {
     color: rgb(119, 167, 236);
+    padding-left: 10px;
     text-align: center;
     font-size: 25px;
 }
 
 .header2 {
     color: rgb(50, 91, 146);
+    padding-left: 10px;
     text-align: center;
     font-size: 25px;
 }
