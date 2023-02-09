@@ -154,7 +154,7 @@ p.contact {
 
 
 /* Changing the email link text color to black. */
-#email {
+a {
     font-color: black;
 }
 
