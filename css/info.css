@@ -58,6 +58,10 @@ img {
   
 }
 
+.paragraph {
+  font-size: 15px;
+}
+
 
 /* Changing the spacing of some of the text. */
 .spacing1, .spacing2 {
