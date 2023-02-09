@@ -35,9 +35,9 @@
 }
 
 
-/* Formatting the header for this page. */
+/* Formatting the header for this page. rgb(111, 126, 149) */
 .header {
-  background-color: rgb(111, 126, 149);
+  background-color: white;
   color: rgb(31, 38, 48);
   padding-top: 10px;
   padding-bottom: 10px;
