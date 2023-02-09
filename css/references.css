@@ -152,6 +152,14 @@ p.contact {
   font-size: 20px;
 }
 
+
+/* Changing the email link text color to black. */
+#email {
+    font-color: black;
+}
+
+
+/* Getting rid of the margins. */
 body {
   overflow-x: hidden;
   margin-top: 0px;
