@@ -12,7 +12,7 @@
 /* Editing header. */
 h2 {
   padding-top: 40px;
-  padding-left: 275px;
+  padding-left: 280px;
   padding-bottom: 15px;
 }
 
@@ -52,24 +52,23 @@ td {
   padding: 20px;
 }
 
-img {
-  height: 60px;
-  width: 60px; 
-  
-}
-
 .paragraph {
   font-size: 15px;
 }
 
-.indent {
-  padding-left: 30px;
+img {
+  height: 60px;
+  width: 60px; 
 }
 
 
 /* Changing the spacing of some of the text. */
 .spacing1, .spacing2 {
   padding-left: 10px;
+}
+
+.indent {
+  padding-left: 30px;
 }
 
 
