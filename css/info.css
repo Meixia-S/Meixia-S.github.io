@@ -58,8 +58,12 @@ img {
   
 }
 
-.indent {
+.paragraph {
   font-size: 15px;
+}
+
+.indent {
+  padding-left: 15px;
 }
 
 
