@@ -69,8 +69,6 @@ img {
     transform: translate(-50%, -50%);
 }
 
-
-/* Fixes the spacing between the paragraphs and edits the font size and color. */
 p {
     margin: 0%;
 }
@@ -90,6 +88,10 @@ p {
     color:rgb(27, 34, 44)
 }
 
+
+/*--------- Below the title screen section. ---------*/
+
+/* Adding the transition gradient background and then the main background gradient. */
 .gradient1 {
     top: 75%;
     height: 530px;
@@ -99,13 +101,14 @@ p {
     background: radial-gradient(50% 80% at bottom, rgb(236,239,240) 50%, rgb(31, 38, 48));
 }
 
-/* Below the title screen section. */
 .mainContainer {
     background: rgb(31, 38, 48);
     background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 25% 75%, rgb(31, 38, 48));
     margin-top: -20px;
 }
 
+
+/* Fixing the width of the paragraphs. */
 .aboutMe, .lifeSynopsis, .careerAspirations, .passions, .tyNote {
     margin-left: 375px;
     margin-right: 375px;
@@ -113,7 +116,7 @@ p {
 }
 
 
-/* Resizing and editing the bostonMap image. */
+/* Resizing the background animated images. */
 #bostonMap {
     max-height: 400px;
     max-width: 400px;
