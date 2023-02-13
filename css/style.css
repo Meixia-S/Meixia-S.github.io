@@ -112,14 +112,15 @@ p {
     padding-bottom: 35px;
 }
 
+
 /* Resizing and editing the bostonMap image. */
 #bostonMap {
     max-height: 400px;
     max-width: 400px;
 }
 
-/* Getting rid of the margin that lines the entire page. */
 
+/* Getting rid of the margin that lines the entire page. */
 body {
   overflow-x: hidden;
   margin-top: 0px;
