@@ -151,7 +151,7 @@ p {
 /* ---------------------------------------------------- */
 
 #pine {
-    position: adsolute; 
+    position: absolute; 
     width: 100%;
     bottom: 0;
     opacity: 0.5;
