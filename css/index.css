@@ -23,7 +23,7 @@ img {
 
 
 /* Creating the top nagigation bar. */
-.topbar {
+.topBar {
     background-color:rgb(31, 38, 48);
     overflow: hidden;
 }
