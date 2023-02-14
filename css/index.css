@@ -102,9 +102,13 @@ p {
 }
 
 .mainContainer {
+    position: relative;
+}
+
+.mainContainer::after {
     background: rgb(31, 38, 48);
-    background-image: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 25% 75%, rgb(31, 38, 48)), 
-        url(/images/index/Pine_forest_silhouette.jpg);
+    background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 25% 75%, rgb(31, 38, 48));
+    position: absolute;
     margin-top: -20px;
 }
 
