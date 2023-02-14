@@ -51,7 +51,7 @@
      <br> CURRENTLY NOTHING HAS BEEN EDITED/PEER EDITED
      <br> - stuff that happened in the last year/ what I want to do in the future
     </p>
-   <div id= "profilePic">  <img src="images/index/blank-profile.jpg" alt="profile picture" id="profile" /> </div> 
+   <div id= "profilePic">  <img src="images/index/blank-profile.jpg" alt="profile picture" id="profile" onscroll= "transformProfile(1)"/> </div> 
   </div>
  
   <div class= "lifeSynopsis">
@@ -180,6 +180,7 @@
  </div>
                 
  <script>
+  /* Making a 'sticky' navbar. */
   var topbar = document.getElementById("topbar");
   var top = topbar.offsetTop;
   
@@ -192,6 +193,11 @@
   }
   
   window.addEventListener("scroll", stickyTopbar);
+  
+  /* Have profile image come from the right side of screen and changes opacity. */
+  function transformProfile(opacity) {
+  }
+  
  </script> 
 </body>
 </html>
