@@ -9,10 +9,10 @@
 </head>
 
 <body>
-    <div class="starterimage">
-        <div class="navcontainer"> 
+    <div class="starterImage">
+        <div class="navContainer" id= "navContainer"> 
             <!-- adding the top bar with contact information and other options. -->
-            <div class="topbar" id="topbar">
+            <div class="topBar">
                 <a href="index.html" id="home">Home</a>
                 <a href="resume.html" id="resume">Resumes</a>
                 <a href="references.html" id="references">References</a>
@@ -180,18 +180,18 @@
                 
  <script>
   /* Making a 'sticky' navbar. */
-  var topbar = document.getElementById("topbar");
+  var navContainer = document.getElementById("navContainer");
   var top = topbar.offsetTop;
   
-  let stickyTopbar = function() {
+  let stickyNavContainer = function() {
    if (window.scrollY >= top) {
-    topbar.classList.add("sticky");
+    navContainer.classList.add("sticky");
    } else {
-    topbar.classList.remove("sticky");
+    navContainer.classList.remove("sticky");
    }
   }
   
-  window.addEventListener("scroll", stickyTopbar);
+  window.addEventListener("scroll", stickyNavContainer);
   
   /* Have profile image come from the right side of screen and changes opacity. */
   let transformProfile = function(opacity1) {
