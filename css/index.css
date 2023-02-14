@@ -128,12 +128,25 @@ p {
     max-width: 400px;
 }
 
-#profile {
+/* ---------------------------------------------------- */
+.profile {
     max-height: 400px;
     max-width: 350px;
     opacity: 0;
-    transform: translateX(200px)
 }
+
+@media (prefers-reduced-motion: no-preference) {
+    .profile {
+        transform: translateX(200px);
+    }
+}
+
+.profile-transition {
+    opacity: 1; 
+    transform: none;
+}
+
+/* ---------------------------------------------------- */
 
 #pine {
     position: adsolute; 
