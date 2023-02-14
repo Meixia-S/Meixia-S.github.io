@@ -184,7 +184,7 @@
   var top = navContainer.offsetTop;
   
   let stickyNavContainer = function() {
-   if (window.scrollY >= top) {
+   if (window.pageYOffset >= top) {
     navContainer.classList.add("sticky");
    } else {
     navContainer.classList.remove("sticky");
