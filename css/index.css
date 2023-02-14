@@ -2,7 +2,7 @@
 start of the website. This image should be overtaken as 
 user moves down the site. */
 
-.starterimage {
+.starterImage {
     position: relative;
     min-width: 100%;
     min-height: 450px;
@@ -10,7 +10,7 @@ user moves down the site. */
     background-size: cover;
 }
 
-.navcontainer {
+.navContainer {
     position: rel;
     width: auto;
     margin: 0;
@@ -28,7 +28,7 @@ img {
     overflow: hidden;
 }
 
-.topbar a {
+.topBar a {
     float: left;
     color:rgb(141, 156, 179);
     text-align: center;
@@ -36,11 +36,11 @@ img {
     font-size: 27px;
 }
 
-.topbar a:hover {
+.topBar a:hover {
     background-color: rgb(119, 167, 236);
 }
 
-.topbar i {
+.topBar i {
     float: left;
     color: rgb(141, 156, 179);
     text-align: center;
