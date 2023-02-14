@@ -122,6 +122,11 @@ p {
     max-width: 400px;
 }
 
+#profile {
+    max-height: 400px;
+    max-width: 350px;
+    transform: translateX(200px)
+}
 
 /* Getting rid of the margin that lines the entire page. */
 body {
