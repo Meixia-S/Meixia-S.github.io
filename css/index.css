@@ -101,7 +101,7 @@ p {
     background: radial-gradient(50% 80% at bottom, rgb(236,239,240) 50%, rgb(31, 38, 48));
 }
 
-.mainContainer::after {
+.mainContainer {
     background: rgb(31, 38, 48);
     background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 25% 75%, rgb(31, 38, 48));
     position: absolute;
