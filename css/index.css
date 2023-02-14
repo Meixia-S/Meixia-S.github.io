@@ -103,7 +103,8 @@ p {
 
 .mainContainer {
     background: rgb(31, 38, 48);
-    background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 25% 75%, rgb(31, 38, 48));
+    background: linear-gradient(to right, rgb(31, 38, 48), rgb(236,239,240) 25% 75%, rgb(31, 38, 48)), url("/images/index/pine-forest-silhouette.jpg");
+    background-position: bottom; 
     position: absolute;
     margin-top: -20px;
 }
