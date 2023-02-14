@@ -130,8 +130,8 @@ p {
 
 /* ---------------------------------------------------- */
 .profile {
-    max-height: 400px;
-    max-width: 350px;
+    max-height: 150px;
+    max-width: 100px;
     opacity: 0;
 }
 
