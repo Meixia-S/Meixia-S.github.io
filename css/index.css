@@ -10,12 +10,6 @@ user moves down the site. */
     background-size: cover;
 }
 
-.navContainer {
-    position: rel;
-    width: auto;
-    margin: 0;
-}
-
 img {
     min-height: 200px;
     width: 100%;
